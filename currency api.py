@@ -10,5 +10,4 @@ def exchange_rate(from_cur, to_cur, api_key):
 from_cur = "USD"
 to_cur = "TRY"
 api_key = "" # your api key from freecurrencyapi.com (It is fully free!)
-print(f"Курс {from_cur} к {to_cur}:", end=" " )
-print(exchange_rate(from_cur, to_cur, api_key))
+
