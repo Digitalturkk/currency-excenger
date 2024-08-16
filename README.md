@@ -7,4 +7,4 @@ Libs using there:
 - freecurrencyapi (Python🐍)
 - JavaFx
 
-To use this project, you need to sing up in freecurrencyapi.com and copy your API key to my currencyapi.py module
+To use this project, you need to sing up in https://freecurrencyapi.com/ and copy your API key to my currencyapi.py module
